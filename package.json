@@ -29,7 +29,7 @@
             {
                 "label": "Atom One Dark - Green",
                 "uiTheme": "vs-dark",
-                "path": "./themes/OneDark.json"
+                "path": "./themes/atom-one-dark-green-color-theme.json"
             }
         ]
     },
