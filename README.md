@@ -1,5 +1,9 @@
 # Atom One Dark - Green Theme
 
+A fork of the [VSCode Atom One Dark theme](https://github.com/akamud/vscode-theme-onedark), with green accents and darker, softer colors for reduced eye strain.
+
+![Screenshot](./screenshots/example.png)
+
 ## Installing
 
 This extension is available for free in the [TODO: REPLACE LINK Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark)  
