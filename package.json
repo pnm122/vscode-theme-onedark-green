@@ -1,41 +1,41 @@
 {
-    "name": "vscode-theme-onedark-green",
-    "displayName": "Atom One Dark Theme",
-    "description": "A fork of the VSCode Atom One Dark theme, with green accents and darker, softer colors for reduced eye strain",
-    "version": "0.1.0",
-    "publisher": "pnm122",
-    "license": "MIT",
-    "galleryBanner": {
-        "color": "#0E0E0C",
-        "theme": "dark"
-    },
-    "engines": {
-        "vscode": "^1.12.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-        "atom",
-        "theme",
-        "dark",
-        "one dark",
-        "green",
-        "eye strain"
-    ],
-    "icon": "icon.png",
-    "contributes": {
-        "themes": [
-            {
-                "label": "Atom One Dark - Green",
-                "uiTheme": "vs-dark",
-                "path": "./themes/atom-one-dark-green-color-theme.json"
-            }
-        ]
-    },
-    "homepage": "https://github.com/pnm122/vscode-theme-onedark-green",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/pnm122/vscode-theme-onedark-green"
-    }
+  "name": "vscode-theme-onedark-green",
+  "displayName": "Atom One Dark - Green",
+  "description": "A fork of the VSCode Atom One Dark theme, with green accents and darker, softer colors for reduced eye strain",
+  "version": "1.0.0",
+  "publisher": "pierce-martin",
+  "license": "MIT",
+  "galleryBanner": {
+    "color": "#0E0E0C",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "atom",
+    "theme",
+    "dark",
+    "one dark",
+    "green",
+    "eye strain"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Atom One Dark - Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/atom-one-dark-green-color-theme.json"
+      }
+    ]
+  },
+  "homepage": "https://github.com/pnm122/vscode-theme-onedark-green",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pnm122/vscode-theme-onedark-green"
+  }
 }
