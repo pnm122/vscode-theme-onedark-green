@@ -2,7 +2,7 @@
   "name": "vscode-theme-onedark-green",
   "displayName": "Atom One Dark - Green",
   "description": "A fork of the VSCode Atom One Dark theme, with green accents and darker, softer colors for reduced eye strain",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "pierce-martin",
   "license": "MIT",
   "galleryBanner": {
