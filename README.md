@@ -1,12 +1,16 @@
 # Atom One Dark - Green Theme
 
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-brightgreen)](https://vscode.dev/theme/pierce-martin.vscode-theme-onedark-green)
+![Visual Studio Marketplace Version (including pre-releases)](https://img.shields.io/visual-studio-marketplace/v/pierce-martin.vscode-theme-onedark-green)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/pierce-martin.vscode-theme-onedark-green)
+
 A fork of the [VSCode Atom One Dark theme](https://github.com/akamud/vscode-theme-onedark), with green accents and darker, softer colors for reduced eye strain.
 
 ![Screenshot](https://raw.githubusercontent.com/pnm122/vscode-theme-onedark-green/refs/heads/master/screenshots/example.png)
 
 ## Installing
 
-This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=pierce-martin.vscode-theme-onedark-green)  
+This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=pierce-martin.vscode-theme-onedark-green)
 
 ## Customization
 
@@ -19,7 +23,7 @@ If you download and install the font in your system, you can add this option to 
 
 ```json
 {
-    "editor.fontFamily": "YOUR FONT, Menlo, Monaco, 'Courier New', monospace"
+  "editor.fontFamily": "YOUR FONT, Menlo, Monaco, 'Courier New', monospace"
 }
 ```
 
